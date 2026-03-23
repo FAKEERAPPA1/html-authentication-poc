@@ -37,9 +37,7 @@ A professional, responsive authentication system built with HTML5, Bootstrap 5, 
 
 5. **Dashboard Page** (`dashboard.html`)
    - Professional dashboard layout
-   - Navigation bar with user menu
-   - Activity statistics and recent activity feed
-   - Responsive card-based design
+   
 
 ## 🎨 Design Features
 
@@ -66,76 +64,35 @@ A professional, responsive authentication system built with HTML5, Bootstrap 5, 
 - JavaScript (ES6+)
 - Google Fonts (Inter)
 
-## 📁 Project Structure
-
-```
-authentication-system-styled/
-├── index.html              # Login page
-├── register.html           # Registration page
-├── forgot-password.html    # Password recovery page
-├── reset-password.html     # Password reset page
-├── dashboard.html          # User dashboard
-├── styles.css              # Custom CSS styles
-├── README.md               # Project documentation
-└── screenshots/            # Page screenshots
-    ├── login.png
-    ├── register.png
-    ├── forgot-password.png
-    ├── reset-password.png
-    └── dashboard.png
-```
-
-## 🚀 Getting Started
-
-1. Clone or download the repository
-2. Open any HTML file in a web browser
-3. Navigate between pages using the provided links
-4. Test responsive design by resizing browser window
 
 ## 💡 Key Features Implemented
 
 ### Bootstrap Integration
-- ✅ Bootstrap 5 CDN links in all pages
-- ✅ Bootstrap Icons for consistent iconography
-- ✅ Bootstrap JavaScript bundle for interactive components
-- ✅ Responsive grid system implementation
+- Bootstrap 5 CDN links in all pages
+- Bootstrap Icons for consistent iconography
+- Bootstrap JavaScript bundle for interactive components
+- Responsive grid system implementation
 
 ### Custom Styling
-- ✅ Professional color scheme with CSS variables
-- ✅ Google Fonts integration (Inter)
-- ✅ Smooth hover effects and transitions
-- ✅ Custom card styling with glass morphism
-- ✅ Gradient backgrounds and shadows
+- Professional color scheme with CSS variables
+- Google Fonts integration (Inter)
+- Smooth hover effects and transitions
+- Custom card styling with glass morphism
+- Gradient backgrounds and shadows
 
 ### Interactive Features
-- ✅ Password visibility toggles
-- ✅ Password strength indicators
-- ✅ Form validation with visual feedback
-- ✅ Loading animations on form submission
-- ✅ Responsive navigation menu
+- Password visibility toggles
+- Password strength indicators
+- Form validation with visual feedback
+- Loading animations on form submission
+- Responsive navigation menu
 
 ### Responsive Design
-- ✅ Mobile-first approach
-- ✅ Flexible layouts for all screen sizes
-- ✅ Touch-friendly interface elements
-- ✅ Optimized typography scaling
+- Mobile-first approach
+- Flexible layouts for all screen sizes
+- Touch-friendly interface elements
+- Optimized typography scaling
 
-## 🎯 Bonus Features Implemented
-
-- ✅ **Password Strength Indicator**: Real-time validation on registration and reset pages (+5 points)
-- ✅ **Show/Hide Password Toggle**: Bootstrap icons implementation (+3 points)
-- ✅ **Form Validation**: Custom error messages and visual feedback (+5 points)
-- ✅ **Loading Spinner**: Button loading states on form submission (+3 points)
-- ✅ **Animated Transitions**: Smooth hover effects and page interactions (+5 points)
-
-**Total Bonus Points Earned: +21 points**
-
-## 🌐 Browser Compatibility
-
-- Chrome 90+
-- Firefox 88+
-- Safari 14+
-- Edge 90+
 
 ## 📸 Screenshots
 
@@ -158,26 +115,17 @@ authentication-system-styled/
 
 The project uses CSS custom properties (variables) for easy theme customization:
 
-```css
-:root {
-    --primary-color: #6366f1;
-    --primary-dark: #4f46e5;
-    --secondary-color: #f8fafc;
-    --accent-color: #10b981;
-    /* ... more variables */
-}
-```
 
 ## 📝 Assignment Completion
 
-This project fulfills all requirements for **Assignment 2: Authentication System Styling**:
+This project fulfills all requirements for **Assignment 3: Authentication System Styling**:
 
-- [x] Bootstrap 5 integration across all pages
-- [x] Professional styling using Bootstrap components
-- [x] Custom CSS with modern design elements
-- [x] Fully responsive design for all device sizes
-- [x] Clean, well-organized code structure
-- [x] Comprehensive documentation with screenshots
+-  Bootstrap 5 integration across all pages
+-  Professional styling using Bootstrap components
+-  Custom CSS with modern design elements
+-  Fully responsive design for all device sizes
+-  Clean, well-organized code structure
+-  Comprehensive documentation with screenshots
 
 ## 👨‍💻 Developer
 
@@ -187,10 +135,5 @@ This project fulfills all requirements for **Assignment 2: Authentication System
 **Mentor**: Jacob Dennis  
 **Year**: 2026
 
-## 📄 License
 
-This project is created for educational purposes as part of the CampusPe Fullstack Java Development course.
-
----
-
-*Built with ❤️ using Bootstrap 5 and modern web technologies*
+*Built using Bootstrap 5 and modern web technologies*
